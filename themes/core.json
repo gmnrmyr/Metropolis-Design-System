@@ -576,5 +576,11 @@
       "$type": "fontSizes",
       "$value": "{fontSizes.body} * 0.65"
     }
+  },
+  "breakpoints": {
+    "xs": {
+      "$type": "sizing",
+      "$value": "320px"
+    }
   }
 }
